@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm Zubair Akhtar and is interested in blogging.
-- 🌱 I’m currently working https://englishgrammarsoft.com/
+- 🌱 I’m currently working on https://funthingstodraw.com/
 
 <!--
 **zubairakhtar177/zubairakhtar177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
